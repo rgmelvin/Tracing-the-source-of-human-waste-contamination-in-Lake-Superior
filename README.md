@@ -19,3 +19,5 @@ Python
 hvplot
 
 Authors: Emily N. Hendrickson (Biomedical Sciences, U of MN Medical School, Duluth/ La Trobe University, Melbourne), Kennedy Johnson (Bridges to Baccalaureate Program, U of MN Medical School Duluth), Andrea Sutton (Genetics and Environment, La Trobe University, Melbourne), Richard G. Melvin (Biomedical Sciences, Univerisity of Minnesota Medical School, Duluth).
+
+Project was funded by Sea Grant to R.G.Melvin, a Sea Grant Summer Internship to E.N.Hendrickson, and Bridges to Baccalaureate Program to K.Johnson.
