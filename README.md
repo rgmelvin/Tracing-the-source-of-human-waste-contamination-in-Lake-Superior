@@ -1,4 +1,5 @@
 # Tracing-the-source-of-human-waste-contamination-in-Lake-Superior
+![map](SourcePlot_9.png)
 This project traced the source of sewage contamination into Lake Superior by quantifying levels of PMMoV in Lake water samples during summer 2021.
 
 Summer 2020 I monitored water collected at Lake Superior beaches in Duluth, MN for the presence of SARS-CoV-2. At the time it was known that SARS-CoV-2 is shed in the feces of infected individuals but it was unknown if infection could occur via a waterborne route. Since swimming beach frequently become contaminated with coliform bacteria, there was concern over the possiblity of SARS-CoV-2 infection at swimming beaches. 
