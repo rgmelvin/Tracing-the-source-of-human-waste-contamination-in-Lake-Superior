@@ -5,7 +5,7 @@
 ### This project traced the source of sewage contamination into Lake Superior 
 by quantifying levels of PMMoV in Lake water samples during summer 2021.
 
-Summer 2020 I monitored water collected at Lake Superior beaches in Duluth, MN for the presence of SARS-CoV-2. At the time it was known that SARS-CoV-2 is shed in the feces of infected individuals but it was unknown if infection could occur via a waterborne route. Since swimming beach frequently become contaminated with coliform bacteria, there was concern over the possiblity of SARS-CoV-2 infection at swimming beaches. 
+Summer 2020 I monitored water collected at Lake Superior beaches in Duluth, MN for the presence of SARS-CoV-2. At the time it was known that SARS-CoV-2 is shed in the feces of infected individuals but it was unknown if infection could occur via a waterborne route. Since swimming beaches frequently become contaminated with coliform bacteria, there was concern over the possiblity of SARS-CoV-2 infection at swimming beaches. 
 
 I collected water samples from 8 beaches every weekend during Summer 2020 and tested for the presence of SARS-CoV-2. I also tested for the presence of the Pepper Mild Mottle Virus (PMMoV), the most common virus found in human waste, as a way to show that we can detect the presence of humans in the water. 
 
