@@ -1,7 +1,9 @@
 # Tracing-the-source-of-human-waste-contamination-in-Lake-Superior
 This project traced the source of sewage contamination into Lake Superior by quantifying levels of PMMoV in Lake water samples during summer 2021.
 
-Summer 2020 I monitored water collected at Lake Superior beaches in Duluth, MN for the presence of SARS-CoV-2. At the time it was known that SARS-CoV-2 is shed in the feces of infected individuals and it was unknown if infection could occur via a waterborne route. I collected water samples from 8 beaches every weekend during Summer 2020 and tested for the presence of SARS-CoV-2. I also tested for the presence of the Pepper Mild Mottle Virus (PMMoV), the most common virus found in human waste, as a way to show that we can detect the presence of humans in the water. 
+Summer 2020 I monitored water collected at Lake Superior beaches in Duluth, MN for the presence of SARS-CoV-2. At the time it was known that SARS-CoV-2 is shed in the feces of infected individuals but it was unknown if infection could occur via a waterborne route. Since swimming beach frequently become contaminated with coliform bacteria, there was concern over the possiblity of SARS-CoV-2 infection at swimming beaches. 
+
+I collected water samples from 8 beaches every weekend during Summer 2020 and tested for the presence of SARS-CoV-2. I also tested for the presence of the Pepper Mild Mottle Virus (PMMoV), the most common virus found in human waste, as a way to show that we can detect the presence of humans in the water. 
 
 No virus was detected in beach water during the peak tourism months of July and August. In September I began to detect higher levels of PMMoV along with the presence of SARS-CoV-2 at one beach located within the city. This was an odd result as the peak of tourism was over and lake temperatures were now decreasing to where swimming would be very uncomfortable. Sewage contamination was a likely source but there are no streams or stormwater outlets at the beach where SARS-CoV-2 was detected. Later SARS-CoV-2 was detected at other beaches along with increased PMMoV levels.
 
