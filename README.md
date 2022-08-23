@@ -24,6 +24,7 @@ Authors: Emily N. Hendrickson (Biomedical Sciences, U of MN Medical School, Dulu
 
 Project was funded by Sea Grant to R.G.Melvin, a Sea Grant Summer Internship to E.N.Hendrickson, and Bridges to Baccalaureate Program to K.Johnson. A.Sutton researched applications of monitoring in sea water and specific monitoring of noro and rotaviruses.
 
-##Files
+## Files
 Jupyter Notebook that maps Log(genome copies of PMMoV/ L)
 Helper functions that convert geoposition data in D:M:S to decimal and decimal to D:M:S
+
